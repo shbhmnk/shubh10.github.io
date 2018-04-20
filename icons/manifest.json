@@ -1,5 +1,11 @@
 {
- "name": "App",
+  "name": "Shubham Naik",
+  "short_name": "Developer",
+  "description": "Portfolio of Shubham Naik",
+  "lang": "en-IN",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#EDEDED",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
